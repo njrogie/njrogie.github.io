@@ -1,0 +1,12 @@
+title: nrogie-blog
+email: njrogie@gmail.com
+description: >- # this means to ignore newlines until "baseurl:"
+  Thoughts and insights made during professional growth
+baseurl: "/blog" # the subpath of your site, e.g. /blog
+url: "https://nrogie.com" # the base hostname & protocol for your site
+
+# Build settings
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
